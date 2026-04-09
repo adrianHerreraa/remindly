@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "atomic_design"
+		},
+		{
+			"path": "common"
+		},
+		{
+			"path": "dependencies"
+		},
+		{
+			"path": "localizations"
+		},
+		{
+			"path": "models"
+		},
+		{
+			"path": "remindly"
+		}
+	],
+	"settings": {}
+}
